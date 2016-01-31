@@ -1,7 +1,7 @@
 ==================================================================================================================
 Optimización de parámetros
 Autores: Jose Ignacio Sánchez
-Fecha: 8 de abril de 2014.
+Fecha: 28 de enero de 2015.
 ==================================================================================================================
 Recursos utilizados:
 	- Linux Mint 15, 16 con JDK 7 y eclipse Kepler.
